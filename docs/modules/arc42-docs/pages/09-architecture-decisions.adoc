@@ -1,22 +1,25 @@
 = 09 - Architecture Decisions
+Sebastian Sommerfeld <sebastian@sommerfeld.io>
 :description: Important, expensive, large scale or risky architecture decisions including rationales.
 
-.Contents
-Important, expensive, large scale or risky architecture decisions including rationales. With "decisions" we mean selecting one alternative based on given criteria.
+CAUTION: todo ...
 
-Please use your judgement to decide whether an architectural decision should be documented here in this central section or whether you better document it locally (e.g. within the white box template of one building block).
+// .Contents
+// Important, expensive, large scale or risky architecture decisions including rationales. With "decisions" we mean selecting one alternative based on given criteria.
 
-Avoid redundancy.  Refer to section 4, where you already captured the most important decisions of your architecture.
+// Please use your judgement to decide whether an architectural decision should be documented here in this central section or whether you better document it locally (e.g. within the white box template of one building block).
 
-.Motivation
-Stakeholders of your system should be able to comprehend and retrace your decisions.
+// Avoid redundancy.  Refer to section 4, where you already captured the most important decisions of your architecture.
 
-.Form
-Various options:
+// .Motivation
+// Stakeholders of your system should be able to comprehend and retrace your decisions.
 
-* ADR (https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions[Documenting Architecture Decisions]) for every important decision
-* List or table, ordered by importance and consequences or:
-* more detailed in form of separate sections per decision
+// .Form
+// Various options:
 
-.Further Information
-See https://docs.arc42.org/section-9/[Architecture Decisions] in the arc42 documentation. There you will find links and examples about ADR.
+// * ADR (https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions[Documenting Architecture Decisions]) for every important decision
+// * List or table, ordered by importance and consequences or:
+// * more detailed in form of separate sections per decision
+
+// .Further Information
+// See https://docs.arc42.org/section-9/[Architecture Decisions] in the arc42 documentation. There you will find links and examples about ADR.
