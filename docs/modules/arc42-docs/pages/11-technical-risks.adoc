@@ -2,4 +2,4 @@
 Sebastian Sommerfeld <sebastian@sommerfeld.io>
 :description: A list of identified technical risks or technical debts, ordered by priority.
 
-link:{url-project}/issues?q=is%3Aissue+label%3Asecurity%2Crisk+is%3Aopen[All issus labeled as `risk` (= some sort of risk or a technical debt) or `security` (= related to security issues)] are tracked as Github issue and carry the respective label.
+link:{url-project}/issues?q=is%3Aissue+label%3Asecurity%2Crisk+is%3Aopen[All issus labeled as `risk` (= some sort of risk or a technical debt) or `security` (= related to security issues)] are tracked as Github issues and carry the respective label.
